@@ -15,6 +15,6 @@ function Wiadomosc({ wiadomosci }) {
         {konwertujDateSukeBoNieDziala(wiadomosci.data)}
       </span>
     </div>
-  );
+  ); //gbs
 }
 export default Wiadomosc;
